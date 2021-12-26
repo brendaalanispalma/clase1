@@ -1,0 +1,15 @@
+C:\Users\Brenda\Desktop\MetroDEv\clase1\bin\Debug\net6.0\clase1.exe
+C:\Users\Brenda\Desktop\MetroDEv\clase1\bin\Debug\net6.0\clase1.deps.json
+C:\Users\Brenda\Desktop\MetroDEv\clase1\bin\Debug\net6.0\clase1.runtimeconfig.json
+C:\Users\Brenda\Desktop\MetroDEv\clase1\bin\Debug\net6.0\clase1.dll
+C:\Users\Brenda\Desktop\MetroDEv\clase1\bin\Debug\net6.0\ref\clase1.dll
+C:\Users\Brenda\Desktop\MetroDEv\clase1\bin\Debug\net6.0\clase1.pdb
+C:\Users\Brenda\Desktop\MetroDEv\clase1\obj\Debug\net6.0\clase1.csproj.AssemblyReference.cache
+C:\Users\Brenda\Desktop\MetroDEv\clase1\obj\Debug\net6.0\clase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brenda\Desktop\MetroDEv\clase1\obj\Debug\net6.0\clase1.AssemblyInfoInputs.cache
+C:\Users\Brenda\Desktop\MetroDEv\clase1\obj\Debug\net6.0\clase1.AssemblyInfo.cs
+C:\Users\Brenda\Desktop\MetroDEv\clase1\obj\Debug\net6.0\clase1.csproj.CoreCompileInputs.cache
+C:\Users\Brenda\Desktop\MetroDEv\clase1\obj\Debug\net6.0\clase1.dll
+C:\Users\Brenda\Desktop\MetroDEv\clase1\obj\Debug\net6.0\ref\clase1.dll
+C:\Users\Brenda\Desktop\MetroDEv\clase1\obj\Debug\net6.0\clase1.pdb
+C:\Users\Brenda\Desktop\MetroDEv\clase1\obj\Debug\net6.0\clase1.genruntimeconfig.cache
